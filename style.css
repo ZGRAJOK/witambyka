@@ -1,15 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&display=swap');
 
 body{
-    background-image: url("bananas.png");
-    font-family: 'Palette Mosaic', cursive;
+    background-image: url("img/bananas.png");
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
     text-align: center;
 }
 header{
     position: static;
     color: #000000;
     padding: 100px 0px 0px;
-    font-size: 70px;
+    font-size: 80px;
 }
 h1{
     padding: 0px 0px;
@@ -22,5 +23,7 @@ footer{
     width: 100%;
     color: #ffffff;
     padding: 30px 0 30px;
-    background-image: url("inflicted.png");
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    background-image: url("img/inflicted.png");
 }
