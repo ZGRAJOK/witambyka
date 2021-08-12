@@ -1,5 +1,6 @@
 Hello on my site :)
 
+icons on tis page are from awesome fonts
 patterns on this page:
 
 =========================================================================
