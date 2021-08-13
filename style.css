@@ -5,40 +5,38 @@ body{
     font-family: 'Secular One', sans-serif;
     text-align: center;
     margin: 0px;
-    overflow: hidden;
     width: 100%;
 }
 .clear{
     clear: both;
 }
 .fa{
-    font-size: 250px;
-    width: 240px;
+    font-size: 13vw;
+    width: 12vw;
 }
 .nav{
-    font-size: 35px;
-    width: 35px;
+    font-size: 1.8vw;
+    width: 1.8%;
 }
 .bigbox{
-    width: 1140px;
+    width: 59%;
 }
 header{
-    margin-top: 10px;
+    margin-top: 1vh;
     position: static;
     color: #030F1A;
-    font-size: 80px;
+    font-size: 4.17vw;
     font-family: 'Source Code Pro', monospace;
 }
 #header{
     color: #071932;
 }
 h1{
-    padding: 0px 0px;
-    font-size: 15px;
+    font-size: 0.8vmax;
 }
 nav{
     color: #071932;
-    margin-top: 50px;
+    margin-top: 4.6vh;
     position: static;
 }
 main{
@@ -58,9 +56,9 @@ a:active{
 }
 section{
     float: left;
-    width: 500px;
-    margin-left: 70px;
-    margin-right: 70px;
+    width: 26%;
+    margin-left: 3.64%;
+    margin-right: 3.64%;
     font-size: 30px;
 }
 .nav{
@@ -69,13 +67,13 @@ section{
 }
 article{
     background-image: url("img/arches.png");
-    margin: 60px;
+    margin: 3.125%;
     margin-top: 20px;
-    height: 500px;
-    width: 500px;
+    height: 26vw;
+    width: 26%;
     float: left;
     border-radius: 30px;
-    border-width: 10px;
+    border-width: 0.5%;
     border-color: #082540;
     border-style: solid;
 }
