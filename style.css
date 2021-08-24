@@ -7,6 +7,10 @@ body{
     margin: 0px;
     width: 100%;
 }
+#music{
+    height: 24vw;
+    margin: 1vw;
+}
 .clear{
     clear: both;
 }
